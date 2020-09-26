@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html ng-app="Recibos">
+  <head>
+    <base target="_top">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="iw-edge">
+    <title>Garita Recibos</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3pro.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-blue.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  </head>
+  <body>
+    <iframe src="https://script.google.com/macros/s/AKfycbyc0OcLgOUtLGcXL-n61vtNl9UVmKFypEwBtEy11U0_/dev" frameborder="0" width="100%" height="500px"></iframe>
+  </body>
+</html>
